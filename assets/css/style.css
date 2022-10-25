@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* convert div to nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,6 +87,7 @@ p {
     background-color: #2589bd;
 }
 
+/* combine repetitive CSS */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -139,6 +141,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* change footer to h4 following sequential order*/
+.footer h4 {
     font-size: 20px;
 }
